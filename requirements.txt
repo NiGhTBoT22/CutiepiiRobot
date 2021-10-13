@@ -48,8 +48,8 @@ python-arq==6.0.3
 aioredis==2.0.0
 odmantic==0.3.5
 aiohttp
-
 aiohttp==3.7.4
+aiohttp==3.7.3
 
 
 pykeyboard==0.1.2
